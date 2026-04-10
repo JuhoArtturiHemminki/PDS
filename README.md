@@ -30,11 +30,11 @@ $$
 $$
 
 Where:
-*   $\hat{V}_{ext}(f_{\phi})$ is the external modulation potential controlled at the specific **79.11 MHz** spectral resonance.
+*   $\hat{V}\_{ext}(f\_{\phi})$ is the external modulation potential controlled at the specific **79.11 MHz** spectral resonance.
 *   This potential acts as a "geometric lens," refracting the phonon path toward defined system coordinates.
 
-#### 2.2 The Hemminki Constant ($H_c$) as a Spectral Filter
-PDS utilizes the **Hemminki Constant** ($H_c = 5.0832104$) to establish a critical "cutoff frequency." This allows the system to identify high-energy phonons (heat) and steer them away from sensitive logic gates, leaving only low-energy, "cold" vibrations in the core.
+#### 2.2 The Hemminki Constant ($H\_c$) as a Spectral Filter
+PDS utilizes the **Hemminki Constant** ($H\_c = 5.0832104$) to establish a critical "cutoff frequency." This allows the system to identify high-energy phonons (heat) and steer them away from sensitive logic gates, leaving only low-energy, "cold" vibrations in the core.
 
 ---
 
