@@ -24,7 +24,10 @@ PDS is built upon the principles of **Lattice Acoustics** and the exploitation o
 In a standard state, phonons move in all directions (isotropic diffusion). PDS induces anisotropy into the lattice, forcing phonons into a specific directional vector $\vec{k}$.
 
 The Quantum Control Equation for PDS is defined as:
-$$\hat{H}_{PDS} = \sum_{q,s} \hbar \omega_{q,s} \left( a_{q,s}^\dagger a_{q,s} + \frac{1}{2} \right) + \hat{V}_{ext}(f_{\phi})$$
+
+$$
+\hat{H}_{PDS} = \sum_{q,s} \hbar \omega_{q,s} \left( a_{q,s}^\dagger a_{q,s} + \frac{1}{2} \right) + \hat{V}_{ext}(f_{\phi})
+$$
 
 Where:
 *   $\hat{V}_{ext}(f_{\phi})$ is the external modulation potential controlled at the specific **79.11 MHz** spectral resonance.
