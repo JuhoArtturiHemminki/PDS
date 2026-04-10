@@ -57,7 +57,7 @@ The stable $H_c$ acts as a mathematical "gravity well," forcing all environmenta
 
 ---
 
-### V. IMPLEMENTATION LOGIC (PSEUDO-ASM)
+### V. IMPLEMENTATION LOGIC IN RUST (PSEUDO-ASM)
 
 ```rust
 // HSO Stability Monitor - Ring -2 Execution
